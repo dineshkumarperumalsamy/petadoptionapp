@@ -1,6 +1,6 @@
 import { Pet } from '../types';
-import image from './../../german.jpeg';
-import image2 from './../../maincoon.jpeg';
+import image from './../../maincoon.jpeg';
+import image2 from './../../german.jpeg';
 export const pets: Pet[] = [
   {
     id: '1',
